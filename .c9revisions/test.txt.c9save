@@ -1,0 +1,5 @@
+{"ts":1345563110859,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"This is a test\nAdding another line\nOne more\n\nAugust 7th\nanother line"]],"start1":0,"start2":0,"length1":0,"length2":68}]],"length":68}
+{"contributors":[],"silentsave":false,"ts":1345563145882,"patch":[[{"diffs":[[0,"ust 7th\nanother line"],[1,"\nAugust 21st"]],"start1":48,"start2":48,"length1":20,"length2":32}]],"length":80,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1352735977902,"patch":[[{"diffs":[[0,"ust 21st"],[1,"\n\ntest test"]],"start1":72,"start2":72,"length1":8,"length2":19}]],"length":91,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1352736259964,"patch":[[{"diffs":[[1,"Hello. \n\n"],[0,"This is "]],"start1":0,"start2":0,"length1":8,"length2":17}]],"length":100,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1352737317509,"patch":[[{"diffs":[[0,"Hello. "],[1,"Daniela!"],[0,"\n\nThis i"]],"start1":0,"start2":0,"length1":15,"length2":23}]],"length":108,"saved":false}
